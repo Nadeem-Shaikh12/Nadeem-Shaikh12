@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **KaamShaala - A platform for skilled Job listings**
 
-- 👨‍💻 All of my projects are available at [coming soon](coming soon)
+- 👨‍💻 All of my projects are available at "Coming Soon"
 
 - 💬 Ask me about **web development**
 
