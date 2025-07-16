@@ -32,4 +32,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nadeem-shaikh12&" alt="nadeem-shaikh12" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nadeem-shaikh12&show_icons=true&locale=en&layout=compact" alt="nadeem-shaikh12" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nadeem-shaikh12&show_icons=true&locale=en&layout=compact" alt="nadeem-shaikh12" /></p><br><br><br><br><br><br><br>
+
+<h2>🏆 Google Cloud Arcade Badges</h2>
