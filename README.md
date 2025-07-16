@@ -35,3 +35,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nadeem-shaikh12&show_icons=true&locale=en&layout=compact" alt="nadeem-shaikh12" /></p><br><br><br><br><br><br><br>
 
 <h2>🏆 Google Cloud Arcade Badges</h2>
+![Arcade Badge](https://raw.githubusercontent.com/Nadeem-Shaikh12/Nadeem-Shaikh12/refs/heads/main/Arcade%20Week%201%20July%202025.png)
