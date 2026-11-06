@@ -1,21 +1,34 @@
-<h1 align="center">Hi 👋, I'm Shaikh Nadeem</h1>
-<h4 align="center">A passionate web development, data science, UI/UX designer, Cyber Security and solving real-world problems through code and design.</h4>
 
-<hr/>
+# Hi, I'm Nadeem Shaikh 👋
 
-- 🔭 I’m currently working on **Online Rental Marketplace and Landlord-Tenant Management Platform**
+### Software Developer | Python | JavaScript | React.js | SQL
 
-- 🌱 I’m currently learning **Django, React, Power BI, ML with Scikit-Learn & PCA**
+I'm a Computer Science Engineering student passionate about building practical software applications, web development, and automation.
 
-- 👯 I’m looking to collaborate on **KaamShaala - A platform for skilled Job listings**
+- 🎓 B.Tech CSE Student at MGM University
+- 💻 Interested in Software Development and Automation
+- 🌱 Currently improving my Data Structures & Algorithms skills
+- 🚀 Building real-world projects and exploring new technologies
 
-- 👨‍💻 All of my projects are available at "Coming Soon"
+### Technical Skills
 
-- 💬 Ask me about **web development**
+- **Languages:** C, C++, Python, JavaScript, SQL
+- **Frontend:** React.js, HTML5, CSS3, Tailwind CSS
+- **Backend & APIs:** Firebase Authentication, REST API Integration
+- **Database:** MySQL
+- **Tools:** Git, GitHub, VS Code, Postman
 
-- 📫 How to reach me **nadimshaikh74161@gmail.com**
+### Featured Projects
 
-- ⚡ Fun fact **I debug code in my dreams and it actually works when I wake up.**
+- **PROPACCURA:** Tenant-Landlord Management Platform
+- **IoT Automatic Water Pump Control Panel:** Automated water-level monitoring and pump control
+- **Smart Thermal Inspection Glass:** Low-cost industrial inspection solution
+
+### Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/nadeem-shaikh-a8357a189/
+- Portfolio: https://nadeem-shaikh12.github.io/Portfolio/
+
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
